@@ -1,0 +1,19 @@
+{
+    "name": "vinex56/sitemap-generator",
+    "description": "Library for generating website sitemaps in XML, CSV, and JSON formats.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vinex56\\SitemapGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinex56",
+            "email": "sanmorow@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
