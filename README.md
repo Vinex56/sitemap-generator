@@ -7,7 +7,7 @@ Sitemap Generator is a PHP library for generating sitemaps in XML, CSV, and JSON
 You can install the library via Composer. Run the following command in your project directory:
 
 ```bash
-composer require vinex56/sitemap-generator
+composer require vinex56/sitemap-generator:dev-master
 ```
 
 # Usage
